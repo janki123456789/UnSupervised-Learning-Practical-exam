@@ -50,7 +50,7 @@ This project solves the problem by automatically grouping customers into meaning
 
 ## Streamlit link
 
-- 
+- [https://unsupervised-learning-practical-exam.streamlit.app/]
 
 
 Dataset contains approximately
